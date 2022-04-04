@@ -70,7 +70,7 @@ public class JdbcDemo {
 		
 		if (myRs != null) {
 			
-			myRs.close();
+			myRs.close();;
 			
 		}
 		
